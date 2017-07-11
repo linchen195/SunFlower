@@ -7,7 +7,7 @@ build/
 DerivedData/
 
 ## Various settings
-*.xcworkspace
+SunFlower.xcworkspace/
 Pods/
 *.pbxuser
 !default.pbxuser
